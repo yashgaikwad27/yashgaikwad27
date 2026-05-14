@@ -26,11 +26,11 @@ Logistic Regression, Linear Regression, Lasso Regression, Cox Proportional Hazar
 
 ## 🔍 What's here?
 
-A mix of independent analyses I built out of curiosity and projects from my time at Syracuse. Some are polished, some are me just figuring things out — but all of them have clean code and a story behind them.
+A mix of independent analyses I built out of curiosity and projects from my time at Syracuse University. Some are polished, some are me just figuring things out - but all of them have clean code and a story behind them.
 
-- 🏥 **Health & Clinical Data** — Survival analysis, longitudinal cohorts, and EHR data. If it involves patients and messy records, I'm probably into it
-- 📉 **Policy & Causal Inference** — Did the 2014 Medicaid expansion actually reduce uninsured rates? I built a 50-state panel to find out
-- 📊 **Statistical Modeling** — Regression, mixed-effects models, and pipelines that someone else can actually run without calling me
+- 🏥 **Health & Clinical Data** - Survival analysis, longitudinal cohorts, and EHR data. If it involves patients and messy records, I'm probably into it
+- 📉 **Policy & Causal Inference** - Did the 2014 Medicaid expansion actually reduce uninsured rates? I built a 50-state panel to find out
+- 📊 **Statistical Modeling** - Regression, mixed-effects models, and pipelines that someone else can actually run without calling me
 
 ---
 
