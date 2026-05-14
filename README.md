@@ -16,10 +16,10 @@ I like taking data that looks like a mess and figuring out what it's actually sa
 
 ## 🔧 What I work with
 
-**Languages & Tools**
-R · SAS · SQL · Excel · REDCap · GitHub
+**Languages & Tools:**
+R, SAS, SQL, Excel, REDCap, GitHub
 
-**Statistical Methods**
+**Statistical Methods:**
 Logistic Regression, Linear Regression, Lasso Regression, Cox Proportional Hazards, Mixed-Effects Models, Causal Inference (DiD), Kaplan-Meier, ANOVA, ANCOVA, Power Analysis, Sampling Methods, Sample Size Estimation
 
 ---
