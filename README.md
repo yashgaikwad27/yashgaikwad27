@@ -8,7 +8,7 @@ I like taking data that looks like a mess and figuring out what it's actually sa
 
 ## 🧠 A bit about me
 
-- Finished my MS in Applied Statistics at Syracuse University in May, 2025
+- Completed my MS in Applied Statistics from Syracuse University in May, 2025
 - Most of my work is a combination of health/clinical data and statistical modeling
 - I care a lot about making analysis reproducible and explainable
 
